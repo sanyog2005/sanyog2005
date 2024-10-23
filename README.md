@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanyog sharma</h1>
+<h1 align="center">Hi 👋, I'm Sanyog Sharma</h1>
 <h3 align="center">An Aspiring data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyog2005&label=Profile%20views&color=0e75b6&style=flat" alt="sanyog2005" /> </p>
