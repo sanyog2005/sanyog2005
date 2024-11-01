@@ -2,8 +2,8 @@
 Aspiring data Scientist and Android developer with a solid foundation in Java, SQL, and Python. Eager to learn and contribute, proficient in data transformation and web development. Enthusiastic about creating user-friendly applications and visualizing insights for informed decision-making.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanyogsharma) 
+## 🌐 Visit My Website:
+
 [![Visit My Website](https://thesanyog.netlify.app/assets/images/sanyo.png)](https://thesanyog.netlify.app/) 
 
 # 💻 Tech Stack:
