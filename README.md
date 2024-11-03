@@ -1,5 +1,4 @@
----
-[![](https://visitcount.itsvg.in/api?id=sanyog2005&icon=8&color=12)](https://visitcount.itsvg.in)
+
 
 # 💫 Sanyog Sharma:
 Aspiring data Scientist and Android developer with a solid foundation in Java, SQL, and Python. Eager to learn and contribute, proficient in data transformation and web development. Enthusiastic about creating user-friendly applications and visualizing insights for informed decision-making.
@@ -24,6 +23,8 @@ Aspiring data Scientist and Android developer with a solid foundation in Java, S
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sanyog2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=sanyog2005&icon=8&color=12)](https://visitcount.itsvg.in)
 ---
 [![](https://visitcount.itsvg.in/api?id=sanyog2005&icon=8&color=12)](https://visitcount.itsvg.in)
 
