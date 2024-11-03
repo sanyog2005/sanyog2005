@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=sanyog2005&icon=8&color=12)](https://visitcount.itsvg.in)
+
 
 
 # 💫 Sanyog Sharma:
@@ -26,6 +28,6 @@ Aspiring data Scientist and Android developer with a solid foundation in Java, S
 ---
 [![](https://visitcount.itsvg.in/api?id=sanyog2005&icon=8&color=12)](https://visitcount.itsvg.in)
 ---
-[![](https://visitcount.itsvg.in/api?id=sanyog2005&icon=8&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
