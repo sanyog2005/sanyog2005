@@ -6,7 +6,7 @@
 Aspiring data Scientist and Android developer with a solid foundation in Java, SQL, and Python. Eager to learn and contribute, proficient in data transformation and web development. Enthusiastic about creating user-friendly applications and visualizing insights for informed decision-making
 
 
-
+]
 
 
 ## 🌐 Visit My Website:
