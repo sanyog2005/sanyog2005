@@ -1,53 +1,86 @@
-# Infrasity 👋
+# Developer Marketing Jobs
 
-Passionate about developer relations, technical writing, and building communities.
+**Every open DevRel, technical writing, developer marketing, community, and docs role at devtool companies — in one place.**
 
-## 💼 Job Opportunities
+Curated nightly. Pulled directly from company ATS feeds. No reposts, no aggregator noise.
+
+[![Updated daily](https://img.shields.io/badge/updated-daily-brightgreen)](#)
+[![Jobs tracked](https://img.shields.io/badge/jobs-tracked%20daily-7B6BFF)](#)
+[![Maintained by Infrasity](https://img.shields.io/badge/maintained%20by-Infrasity-7B6BFF)](https://infrasity.com)
+
+---
+
+## Why this exists
+
+DevRel and technical writing roles are scattered across LinkedIn, careers pages, niche newsletters, and Slack channels. Finding them takes hours. We pull them directly from each company's ATS every night so you don't have to.
+
+If you're hiring, you can submit roles by [opening an issue](#submit-a-role).
+
+---
 
 <!-- JOBS:START -->
 
-### 🎤 Developer Advocate / DevRel
+## 🎤 Developer Advocate / DevRel
 
-| Role | Company | Location | Source |
-|------|---------|----------|--------|
-| [Staff Developer Advocate](https://www.mongodb.com/careers/job/?gh_jid=7831638) | Mongodb | New York | Greenhouse |
-| [Senior Developer Advocate](https://www.mongodb.com/careers/job/?gh_jid=7571308) | Mongodb | Austin | Greenhouse |
-| [AI Staff Developer Advocate](https://www.mongodb.com/careers/job/?gh_jid=7673691) | Mongodb | California; San Francisco | Greenhouse |
-| [Developer Advocate](https://boards.greenhouse.io/figma/jobs/5834922004?gh_jid=5834922004) | Figma | San Francisco, CA | Greenhouse |
-| [Developer Advocate (Tokyo, Japan)](https://boards.greenhouse.io/figma/jobs/5969647004?gh_jid=5969647004) | Figma | Tokyo, Japan | Greenhouse |
-| [Senior Developer Advocate](https://jobs.elastic.co/jobs?gh_jid=7190138&gh_jid=7190138) | Elastic | Spain | Greenhouse |
-| [Senior Developer Advocate (Video Content Creator)](https://jobs.elastic.co/jobs?gh_jid=7190130&gh_jid=7190130) | Elastic | United Kingdom | Greenhouse |
-| [Sr. Developer Advocate - Neon](https://databricks.com/company/careers/open-positions/job?gh_jid=8428818002) | Databricks | San Francisco, California | Greenhouse |
+_No open roles in the last 30 days._
 
+## ✍️ Technical Writing & Documentation
 
-### ✍️ Technical Writing & Documentation
+| Role | Company | Location | Apply |
+|------|---------|----------|-------|
+| Tech Lead Databricks Data Engineer | Mitre Media | USA, Canada, USA timezones | [→](https://remotive.com/remote-jobs/software-development/tech-lead-databricks-data-engineer-2069747) |
+| Senior Frontend Developer | Sanctuary Computer | LATAM, Asia | [→](https://remotive.com/remote-jobs/software-development/senior-frontend-developer-2088707) |
+| Fullstack Developer (US - ET) | Chooose | USA | [→](https://remotive.com/remote-jobs/software-development/fullstack-developer-us-et-2088706) |
+| Freelance Writer | IAPWE | Worldwide | [→](https://remotive.com/remote-jobs/writing/freelance-writer-1185979) |
+| Copywriter | Coalition Technologies  | Worldwide | [→](https://remotive.com/remote-jobs/writing/copywriter-1749306) |
 
-| Role | Company | Location | Source |
-|------|---------|----------|--------|
-| [Content Engineer](https://job-boards.greenhouse.io/vercel/jobs/5820658004) | Vercel | Hybrid - San Francisco, New Yo | Greenhouse |
-| [Technical Writer](https://www.mongodb.com/careers/job/?gh_jid=7743754) | Mongodb | Dublin | Greenhouse |
-| [Tech Lead Databricks Data Engineer](https://remotive.com/remote-jobs/software-development/tech-lead-databricks-data-engineer-2069747) | Mitre Media | USA, Canada, USA timezones | Remotive |
-| [Senior Frontend Developer](https://remotive.com/remote-jobs/software-development/senior-frontend-developer-2088707) | Sanctuary Computer | LATAM, Asia | Remotive |
-| [Fullstack Developer (US - ET)](https://remotive.com/remote-jobs/software-development/fullstack-developer-us-et-2088706) | Chooose | USA | Remotive |
+## 📣 Developer Marketing
 
+| Role | Company | Location | Apply |
+|------|---------|----------|-------|
+| Creative Strategist | Maneuver Marketing | Remote | [→](https://remoteOK.com/remote-jobs/remote-creative-strategist-maneuver-marketing-1131221) |
+| Content Lead (m/w/d) | Finseo GmbH |  | [→](https://www.arbeitnow.com/jobs/companies/finseo-gmbh/content-lead-freiburg-im-breisgau-327308) |
 
-### 📣 Content Marketing
+## 👥 Community
 
-| Role | Company | Location | Source |
-|------|---------|----------|--------|
-| [Writer, Content Marketing](https://stripe.com/jobs/search?gh_jid=7587814) | Stripe | Remote US | Greenhouse |
-| [Content Marketing Intern (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733168?gh_jid=7733168) | Cloudflare | In-Office | Greenhouse |
-| [Content Marketing Intern (Summer 2026)](https://boards.greenhouse.io/cloudflare/jobs/7733145?gh_jid=7733145) | Cloudflare | In-Office | Greenhouse |
-| [Sr. Event Content Manager](https://databricks.com/company/careers/open-positions/job?gh_jid=8382689002) | Databricks | USCA | Greenhouse |
-| [Creative Strategist](https://remoteOK.com/remote-jobs/remote-creative-strategist-maneuver-marketing-1131221) | Maneuver Marketing | Remote | RemoteOK |
-| [Content Lead (m/w/d)](https://www.arbeitnow.com/jobs/companies/finseo-gmbh/content-lead-freiburg-im-breisgau-327308) | Finseo GmbH |  | Arbeitnow |
-
-
-_Last updated: 2026-04-27 10:28 UTC • Total: 20 jobs_
-
+_No open roles in the last 30 days._
 
 <!-- JOBS:END -->
 
 ---
 
-Open to opportunities in DevRel, content, and technical writing.
+**Showing the freshest 30 jobs across all categories.**
+
+---
+
+## How it works
+
+This repo runs a nightly script that:
+
+1. Reads company ATS feeds (Greenhouse, Lever, Ashby, Workable)
+2. Filters by role keywords (DevRel, advocate, technical writer, community, developer marketing, docs)
+3. Rebuilds this README with fresh jobs every day
+
+**Sources:** Greenhouse · Lever · Ashby · RemoteOK · Remotive · Arbeitnow · Adzuna
+
+**No scraping. No reposts. No LinkedIn dust.**
+
+---
+
+## Submit a role
+
+Hiring for a devtool DevRel, content, or developer marketing role? [Open an issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues/new) with the company name and ATS link.
+
+---
+
+## About
+
+Maintained by **[Infrasity](https://infrasity.com)** — a developer marketing agency working with DevTools and B2B SaaS companies.
+
+We do this in public because we live in this space — every role here is one we'd consider hiring for ourselves.
+
+[infrasity.com](https://infrasity.com) · [LinkedIn](https://linkedin.com/company/infrasity)
+
+---
+
+*Last updated automatically via GitHub Actions.*
