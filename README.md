@@ -26,7 +26,7 @@
 | Senior Frontend Developer | Sanctuary Computer | LATAM, Asia | Remotive | [Apply](https://remotive.com/remote-jobs/software-development/senior-frontend-developer-2088707) |
 | Fullstack Developer (US - ET) | Chooose | USA | Remotive | [Apply](https://remotive.com/remote-jobs/software-development/fullstack-developer-us-et-2088706) |
 
-_Last updated: 2026-04-27 04:41 UTC_
+_Last updated: 2026-04-27 04:53 UTC_
 <!-- JOBS:END -->
 
 More stuff here if you want.
