@@ -24,6 +24,7 @@ If you're hiring, you can submit roles by [opening an issue](#submit-a-role).
 
 | Role | Company | Location | Apply |
 |------|---------|----------|-------|
+| Developer Relations P2P (100% remote) | Tether Operations Limited | UK | [→](https://www.adzuna.co.uk/jobs/details/5713374572?utm_medium=api&utm_source=1aa7baa7) |
 | Senior Developer Advocate | Mongodb | Austin; United States | [→](https://www.mongodb.com/careers/job/?gh_jid=7571308) |
 | Product Manager, Developer Experience | Mongodb | New York City | [→](https://www.mongodb.com/careers/job/?gh_jid=7793281) |
 | Senior Product Manager, Python Developer Experience | Mongodb | Ireland | [→](https://www.mongodb.com/careers/job/?gh_jid=7388900) |
@@ -84,7 +85,7 @@ If you're hiring, you can submit roles by [opening an issue](#submit-a-role).
 
 | Role | Company | Location | Apply |
 |------|---------|----------|-------|
-| Product Marketing Manager, Prime / OTC | BitGo | New York, US | [→](https://www.adzuna.com/details/5713354176?utm_medium=api&utm_source=1aa7baa7) |
+| Senior Product Marketing Manager (Market Intelligence) - Remote US | Smile Digital Health | US | [→](https://www.adzuna.com/details/5713374309?utm_medium=api&utm_source=1aa7baa7) |
 | EMEA Energy Industry Go-To-Market (GTM) Leader | Databricks | EMEA; Germany; London, United  | [→](https://databricks.com/company/careers/open-positions/job?gh_jid=8495059002) |
 | Lead GTM Enablement & Scale Architect | Databricks | United States | [→](https://databricks.com/company/careers/open-positions/job?gh_jid=8463173002) |
 | Director, GTM Business Architecture | Twilio | Remote - US | [→](https://job-boards.greenhouse.io/twilio/jobs/7819432) |
@@ -224,6 +225,7 @@ If you're hiring, you can submit roles by [opening an issue](#submit-a-role).
 
 | Role | Company | Location | Apply |
 |------|---------|----------|-------|
+| Marketing Director- UK & IRL | Affidea Ireland | London, UK | [→](https://www.adzuna.co.uk/jobs/details/5713373898?utm_medium=api&utm_source=1aa7baa7) |
 | Head of Marketing Business Operations | Launchdarkly | Remote - US | [→](https://job-boards.greenhouse.io/launchdarkly/jobs/7711599003) |
 | Head of Marketing Analytics | Postman | San Francisco, California, Uni | [→](https://job-boards.greenhouse.io/postman/jobs/7639862003) |
 | Head of Marketing Operations & Production | Postman | San Francisco, California, Uni | [→](https://job-boards.greenhouse.io/postman/jobs/7671645003) |
@@ -234,6 +236,8 @@ If you're hiring, you can submit roles by [opening an issue](#submit-a-role).
 | Role | Company | Location | Apply |
 |------|---------|----------|-------|
 | Community Engagement Advisor | Yarra City Council | Melbourne CBD, Melbourne | [→](https://www.adzuna.com.au/details/5713344161?utm_medium=api&utm_source=1aa7baa7) |
+| Community Lead - Liberty Station | JETSET Pilates | San Diego, San Diego County | [→](https://www.adzuna.com/details/5713374786?utm_medium=api&utm_source=1aa7baa7) |
+| Assistant Community Manager | L’ORÉAL | Connecticut, US | [→](https://www.adzuna.com/details/5713373738?utm_medium=api&utm_source=1aa7baa7) |
 | Developer Community Lead - EMEA | Anthropic | London, UK | [→](https://job-boards.greenhouse.io/anthropic/jobs/5113368008) |
 | Community Operations & Executive Escalations Manager | Anthropic | San Francisco, CA / New York C | [→](https://job-boards.greenhouse.io/anthropic/jobs/5179769008) |
 | Content Creator/ Community Builder (m/w/d) | Picmondoo GmbH |  | [→](https://www.arbeitnow.com/jobs/companies/picmondoo-gmbh/content-creator-community-builder-langweid-am-lech-375605) |
@@ -249,222 +253,26 @@ If you're hiring, you can submit roles by [opening an issue](#submit-a-role).
 
 ## 🚀 Y Combinator Jobs
 
+### 📦 Product Marketing
+
 | Role | Company | Location | Apply |
 |------|---------|----------|-------|
-| Office Manager/Executive Assistant | Eight Sleep | New York, NY, US | [→](https://www.ycombinator.com/companies/eight-sleep/jobs/XUq2bCB-office-manager-executive-assistant) |
-| Senior Software Engineer (iOS) | Eight Sleep | New York, NY, US / San Francis | [→](https://www.ycombinator.com/companies/eight-sleep/jobs/xRg2b83-senior-software-engineer-ios) |
-| Recruiter | Eight Sleep | New York - HQ | [→](https://www.ycombinator.com/companies/eight-sleep/jobs/ZgOoJDW-recruiter) |
-| Technical Recruiter | Eight Sleep | San Francisco, CA or New York, | [→](https://www.ycombinator.com/companies/eight-sleep/jobs/zbm8uxY-technical-recruiter) |
-| Electrical Engineer | Eight Sleep | San Francisco | [→](https://www.ycombinator.com/companies/eight-sleep/jobs/zSzyeLw-electrical-engineer) |
-| Lifecycle Marketing Manager | Eight Sleep | Remote - US / Remote (US) | [→](https://www.ycombinator.com/companies/eight-sleep/jobs/foAysvA-lifecycle-marketing-manager) |
-| Product Manager | Eight Sleep | New York - HQ | [→](https://www.ycombinator.com/companies/eight-sleep/jobs/PCa2ZKc-product-manager) |
-| Director of Talent  | Eight Sleep | New York - HQ | [→](https://www.ycombinator.com/companies/eight-sleep/jobs/txcv0V9-director-of-talent) |
-| Technical Program Manager, Hardware | Eight Sleep | San Francisco | [→](https://www.ycombinator.com/companies/eight-sleep/jobs/Mrjo9zf-technical-program-manager-hardware) |
-| Full Stack Engineer, Web | Eight Sleep | Remote - UK or Europe, Remote  | [→](https://www.ycombinator.com/companies/eight-sleep/jobs/9TaFbm2-full-stack-engineer-web) |
-| Director of Business Operations | Eight Sleep | New York, NY, US | [→](https://www.ycombinator.com/companies/eight-sleep/jobs/MuVWDOD-director-of-business-operations) |
-| International Paid Media Manager | Eight Sleep | Remote - UK or Europe / Remote | [→](https://www.ycombinator.com/companies/eight-sleep/jobs/c7rS15P-international-paid-media-manager) |
-| Full Stack Engineer - Web Focus | Eight Sleep | GB / IT / MX / BR / TR / AR /  | [→](https://www.ycombinator.com/companies/eight-sleep/jobs/slZD7gD-full-stack-engineer-web-focus) |
-| Senior Software Engineer - Backend | Eight Sleep | New York, NY / Remote | [→](https://www.ycombinator.com/companies/eight-sleep/jobs/QASiPxJwd-senior-software-engineer-backend) |
-| Senior Machine Learning Engineer | GOAT Group | FL, US / GA, US / MI, US / MN, | [→](https://www.ycombinator.com/companies/goat-group/jobs/HsUFRzI-senior-machine-learning-engineer) |
-| Senior Software Engineer | GOAT Group | US / Remote (US) | [→](https://www.ycombinator.com/companies/goat-group/jobs/KcKpk0p-senior-software-engineer) |
-| South Carolina Collaborating / Supervising Physician MD / DO - Telemedicine Prim | Circle Medical | Charleston, South Carolina / R | [→](https://www.ycombinator.com/companies/circle-medical/jobs/467fXST-south-carolina-collaborating-supervising-physician-md-do-telemedicine-primary-care) |
-| Primary Care Physician, TEXAS (MD/DO, Board Certified) | Circle Medical | McKinney, Texas | [→](https://www.ycombinator.com/companies/circle-medical/jobs/xFrZIpq-primary-care-physician-texas-md-do-board-certified) |
-| Primary Care Physician, FLORIDA (MD/DO, Board Certified) | Circle Medical | Aventura, Florida | [→](https://www.ycombinator.com/companies/circle-medical/jobs/GmLoeTg-primary-care-physician-florida-md-do-board-certified) |
-| Medical Director, Clinical Experience | Circle Medical | Remote / Remote (US) | [→](https://www.ycombinator.com/companies/circle-medical/jobs/NdSSgoP-medical-director-clinical-experience) |
-| Director, Revenue Cycle Management | Circle Medical | Montreal, San Francisco, New Y | [→](https://www.ycombinator.com/companies/circle-medical/jobs/ZrBKffO-director-revenue-cycle-management) |
-| Collaborating / Supervising Physician MD / DO - Telemedicine Primary Care. | Circle Medical | Remote / Remote (US) | [→](https://www.ycombinator.com/companies/circle-medical/jobs/lofe1Te-collaborating-supervising-physician-md-do-telemedicine-primary-care) |
-| Product Manager - Clinical Pathways & Analytics | AgileMD | US / Remote (US) | [→](https://www.ycombinator.com/companies/agilemd/jobs/3ivrQEb-product-manager-clinical-pathways-analytics) |
-| Product Manager | SmartAsset | US / Remote (US) | [→](https://www.ycombinator.com/companies/smartasset/jobs/rfaA2Ac-product-manager) |
-| Senior Software Engineer | SmartAsset | US / Remote (US) | [→](https://www.ycombinator.com/companies/smartasset/jobs/voUhWim-senior-software-engineer) |
-| Head of Engineering, Identity Graph | Stripe | San Francisco  / Remote | [→](https://www.ycombinator.com/companies/stripe/jobs/yaLKuLq-head-of-engineering-identity-graph) |
-| Machine Learning Engineer, Identity | Stripe | San Francisco  / Remote | [→](https://www.ycombinator.com/companies/stripe/jobs/9d8GGVs-machine-learning-engineer-identity) |
-| Frontend Engineer, Identity | Stripe | United States / Remote | [→](https://www.ycombinator.com/companies/stripe/jobs/jdBhPmD-frontend-engineer-identity) |
-| Full Stack Engineer | GiveCampus | DC, SF, and remote / Remote (U | [→](https://www.ycombinator.com/companies/givecampus/jobs/NJQAJaLHz-full-stack-engineer) |
-| Founding Marketing Lead | Resolve | New York, NY, US / San Francis | [→](https://www.ycombinator.com/companies/resolve/jobs/9ECcwEs-founding-marketing-lead) |
-| Senior Sales Development Representative | SnapMagic | Redwood City, CA, US / Remote  | [→](https://www.ycombinator.com/companies/snapmagic/jobs/t7BgVaM-senior-sales-development-representative) |
-| Director of Software & Product | SnapMagic | Redwood City, CA, US / Remote  | [→](https://www.ycombinator.com/companies/snapmagic/jobs/vZrseMD-director-of-software-product) |
-| Head of Operations | SnapMagic | Redwood City, CA, US / Remote  | [→](https://www.ycombinator.com/companies/snapmagic/jobs/0XkjQVQ-head-of-operations) |
-| Head of Sales | SnapMagic | Redwood City, CA, US / Remote  | [→](https://www.ycombinator.com/companies/snapmagic/jobs/kXAprxJ-head-of-sales) |
-| Customer Success Manager | SnapMagic | Redwood City, CA, US / San Fra | [→](https://www.ycombinator.com/companies/snapmagic/jobs/eriIncs-customer-success-manager) |
-| Enterprise Account Executive | SnapMagic | Redwood City, CA, US / Remote  | [→](https://www.ycombinator.com/companies/snapmagic/jobs/GWuieQc-enterprise-account-executive) |
-| Senior Backend Software Engineer | Lugg | Remote | [→](https://www.ycombinator.com/companies/lugg/jobs/FdpmpdACL-senior-backend-software-engineer) |
-| Senior Data Engineer | Tovala | Chicago, IL | [→](https://www.ycombinator.com/companies/tovala/jobs/e8jKO4i-senior-data-engineer) |
-| Senior Software Engineer | Instacart | San francisco, CA / Remote | [→](https://www.ycombinator.com/companies/instacart/jobs/0XJjxk4lw-senior-software-engineer) |
-| Senior Android Engineer | Instacart | San francisco, CA / Remote | [→](https://www.ycombinator.com/companies/instacart/jobs/BWkbgeYsk-senior-android-engineer) |
-| Senior iOS Engineer | Instacart | San francisco, CA | [→](https://www.ycombinator.com/companies/instacart/jobs/4uSrVZoa1-senior-ios-engineer) |
-| Senior Software Engineer, Customers, Front End | Instacart | San francisco, CA | [→](https://www.ycombinator.com/companies/instacart/jobs/4wuq2cXZq-senior-software-engineer-customers-front-end) |
-| Senior Software Engineer, Infrastructure | Instacart | San francisco, CA | [→](https://www.ycombinator.com/companies/instacart/jobs/7RkVA0vyi-senior-software-engineer-infrastructure) |
-| Senior Software Engineer, Customers Back End | Instacart | San francisco, CA | [→](https://www.ycombinator.com/companies/instacart/jobs/Vc34PRHze-senior-software-engineer-customers-back-end) |
-| Android Engineer | Instacart | San francisco, CA | [→](https://www.ycombinator.com/companies/instacart/jobs/ZBDBmG17B-android-engineer) |
-| Fullstack Engineer, Seller Merchandising | Whatnot | Los Angeles, CA, US / Seattle, | [→](https://www.ycombinator.com/companies/whatnot/jobs/62xsZbo-fullstack-engineer-seller-merchandising) |
-| Engineering Manager, Seller Scaling | Whatnot | Los Angeles, CA, US / San Fran | [→](https://www.ycombinator.com/companies/whatnot/jobs/wi8QJXI-engineering-manager-seller-scaling) |
-| Backend Engineer, Logistics  | Whatnot | San Francisco, CA, US / Los An | [→](https://www.ycombinator.com/companies/whatnot/jobs/eSYBHk3-backend-engineer-logistics) |
-| Software Engineer, Search and Discovery Platform | Whatnot | San Francisco, CA, US / Los An | [→](https://www.ycombinator.com/companies/whatnot/jobs/RmeBmAy-software-engineer-search-and-discovery-platform) |
-| Frontend Engineer, Customer Experience | Whatnot | Remote (Seattle, WA, US; San F | [→](https://www.ycombinator.com/companies/whatnot/jobs/ahUpZwM-frontend-engineer-customer-experience) |
-| Software Engineer, Developer Productivity | Whatnot | San Francisco, CA, US / New Yo | [→](https://www.ycombinator.com/companies/whatnot/jobs/SeFlBBK-software-engineer-developer-productivity) |
-| Software Engineer, Machine Learning | Whatnot | Remote - North America / Remot | [→](https://www.ycombinator.com/companies/whatnot/jobs/0ySWf4b-software-engineer-machine-learning) |
-| Engineering Manager | EquipmentShare | US / Remote (US) | [→](https://www.ycombinator.com/companies/equipmentshare/jobs/vb0tMaS-engineering-manager) |
-| Mid-level Software Engineer | EquipmentShare | Remote (US) | [→](https://www.ycombinator.com/companies/equipmentshare/jobs/nRmVwyu-mid-level-software-engineer) |
-| Product Designer | EquipmentShare | Remote / Remote (US) | [→](https://www.ycombinator.com/companies/equipmentshare/jobs/UA18qDS61-product-designer) |
-| Senior Software Engineer | Webflow | San Francisco, CA or Remote (U | [→](https://www.ycombinator.com/companies/webflow/jobs/f6mP23DLZ-senior-software-engineer) |
-| Quality Assurance Manager  | Webflow | San francisco, CA or Remote (U | [→](https://www.ycombinator.com/companies/webflow/jobs/g64Qosx6L-quality-assurance-manager) |
 | Product Marketing Manager | OneSignal | United States - Remote / Remot | [→](https://www.ycombinator.com/companies/onesignal/jobs/06T3lN5-product-marketing-manager) |
-| Senior Software Engineer, Email Team | OneSignal | United States - Remote / Remot | [→](https://www.ycombinator.com/companies/onesignal/jobs/ZwwdPw4-senior-software-engineer-email-team) |
-| Staff Software Engineer, SMS Team (Fullstack) | OneSignal | United States (Remote) / Remot | [→](https://www.ycombinator.com/companies/onesignal/jobs/DNhTi7U-staff-software-engineer-sms-team-fullstack) |
-| Senior Software Engineer, Journeys Team (Fullstack) | OneSignal | United States (Remote) / Remot | [→](https://www.ycombinator.com/companies/onesignal/jobs/BOlyPRY-senior-software-engineer-journeys-team-fullstack) |
-| Senior/Principal Engineer/Manager, Frontend Engineering | Razorpay | Bangalore, Karnataka | [→](https://www.ycombinator.com/companies/razorpay/jobs/Xpdifpfmk-senior-principal-engineer-manager-frontend-engineering) |
-| Senior Infrastructure Engineer | Razorpay | Bengaluru | [→](https://www.ycombinator.com/companies/razorpay/jobs/zUemCTA1N-senior-infrastructure-engineer) |
-| Senior / Principal Engineers | Razorpay | bangalore | [→](https://www.ycombinator.com/companies/razorpay/jobs/GQiEGb6ug-senior-principal-engineers) |
-| Software Development Engineer in Test II | HackerRank | Santa Clara, CA, US | [→](https://www.ycombinator.com/companies/hackerrank/jobs/i98DbUw-software-development-engineer-in-test-ii) |
-| Manager, Forward Deployed Engineering | HackerRank | Santa Clara, CA, US | [→](https://www.ycombinator.com/companies/hackerrank/jobs/RXN2BRu-manager-forward-deployed-engineering) |
-| Forward Deployed Engineer | HackerRank | Bengaluru, KA, IN / Bengaluru, | [→](https://www.ycombinator.com/companies/hackerrank/jobs/6yUyOZa-forward-deployed-engineer) |
-| HackerRank (YC S11) / Hiring Senior Software Engineer / Santa Clara CA - Hybrid | HackerRank | Santa Clara, CA, US | [→](https://www.ycombinator.com/companies/hackerrank/jobs/6yom11r-hackerrank-yc-s11-hiring-senior-software-engineer-santa-clara-ca-hybrid) |
-| Senior Backend Engineer | Tenjin | US / CA / MX / BR / AR / CO /  | [→](https://www.ycombinator.com/companies/tenjin/jobs/fOIMq2g-senior-backend-engineer) |
-| Forward-Deployed Engineer (FDE) - Full Stack | ShipBob | San Francisco, CA, US / Chicag | [→](https://www.ycombinator.com/companies/shipbob/jobs/YMAwqY5-forward-deployed-engineer-fde-full-stack) |
-| Senior Platform Engineer | Mux | San Francisco, CA, US | [→](https://www.ycombinator.com/companies/mux/jobs/9A5uo2n-senior-platform-engineer) |
-| Staff AI Engineer - USA | Podium | Lehi, UT, US / Remote (US) | [→](https://www.ycombinator.com/companies/podium/jobs/qgKxAEM-staff-ai-engineer-usa) |
-| Staff AI Engineer - Utah | Podium | Lehi, UT, US | [→](https://www.ycombinator.com/companies/podium/jobs/l8BTq6f-staff-ai-engineer-utah) |
-| Senior AI Engineer - Utah | Podium | Lehi, UT, US | [→](https://www.ycombinator.com/companies/podium/jobs/pp9fqBd-senior-ai-engineer-utah) |
-| Technical Product Manager, Software | Mason | Seattle, WA, United States / R | [→](https://www.ycombinator.com/companies/mason/jobs/qQ3AgTS-technical-product-manager-software) |
-| Full Stack Software Engineer | Mason | Seattle, WA | [→](https://www.ycombinator.com/companies/mason/jobs/eO4bkD3xo-full-stack-software-engineer) |
-| Software Engineer - Backend | Mason | Seattle, WA | [→](https://www.ycombinator.com/companies/mason/jobs/cQEF4lG86-software-engineer-backend) |
-| Enterprise AI Strategist, Deepgram for Restaurants | Deepgram | San Francisco, CA | [→](https://www.ycombinator.com/companies/deepgram/jobs/rzjRzjp-enterprise-ai-strategist-deepgram-for-restaurants) |
-| Software Engineer - Deepgram for Restaurants | Deepgram | San Francisco, CA | [→](https://www.ycombinator.com/companies/deepgram/jobs/C3qC38V-software-engineer-deepgram-for-restaurants) |
-| Corporate Account Executive | Deepgram | Remote / Remote (US) | [→](https://www.ycombinator.com/companies/deepgram/jobs/V9YiHIJ-corporate-account-executive) |
-| Sales Development Representative | Deepgram | Remote / Remote (US) | [→](https://www.ycombinator.com/companies/deepgram/jobs/eHsOFzM-sales-development-representative) |
-| Research Scientist, Voice | Deepgram | US / Remote (US) | [→](https://www.ycombinator.com/companies/deepgram/jobs/0wGOyli-research-scientist-voice) |
-| Manufacturing Engineer | iSono Health | South San Francisco | [→](https://www.ycombinator.com/companies/isono-health/jobs/QzLjpZG-manufacturing-engineer) |
-| Senior Software Engineer - Cloud | iSono Health | South San francisco, CA / Remo | [→](https://www.ycombinator.com/companies/isono-health/jobs/oNuuvEXnq-senior-software-engineer-cloud) |
-| Computer Vision/Deep Learning Scientist | iSono Health | South San francisco, CA / Remo | [→](https://www.ycombinator.com/companies/isono-health/jobs/HXMO4gGEt-computer-vision-deep-learning-scientist) |
-| Senior Software Engineer, Backend | Mashgin | Palo Alto, CA | [→](https://www.ycombinator.com/companies/mashgin/jobs/kOoM7gQ-senior-software-engineer-backend) |
-| Senior Technical Product Manager | Mashgin | Palo Alto, CA, US | [→](https://www.ycombinator.com/companies/mashgin/jobs/o1C6SdM-senior-technical-product-manager) |
-| Software Engineer, Computer Vision and Deep Learning | Mashgin | Palo Alto, CA | [→](https://www.ycombinator.com/companies/mashgin/jobs/Lwg6Tpa-software-engineer-computer-vision-and-deep-learning) |
-| Senior Software Engineer, Full-Stack | Mashgin | Palo Alto, CA | [→](https://www.ycombinator.com/companies/mashgin/jobs/BaWLmBF-senior-software-engineer-full-stack) |
-| Staff UI Engineer | Streak | US / CA / MX / Remote (US; CA; | [→](https://www.ycombinator.com/companies/streak/jobs/m9TkzXv-staff-ui-engineer) |
-| Accounting Manager | Faire | San Francisco, CA | [→](https://www.ycombinator.com/companies/faire/jobs/Sy84kI4-accounting-manager) |
-| Nonprofit Solution Consultant (Hiring in NY, NJ, GA, CA states only) | Giveffect | NY, US / NJ, US / GA, US / CA, | [→](https://www.ycombinator.com/companies/giveffect/jobs/sxgzM5S-nonprofit-solution-consultant-hiring-in-ny-nj-ga-ca-states-only) |
-| Senior Engineering Manager, Experiment | Amplitude | San Francisco, CA, US | [→](https://www.ycombinator.com/companies/amplitude/jobs/rxByBhW-senior-engineering-manager-experiment) |
-| Engineering Manager, Guides & Surveys | Amplitude | San Francisco, CA, US | [→](https://www.ycombinator.com/companies/amplitude/jobs/YZ0Eqyy-engineering-manager-guides-surveys) |
-| Senior AI Product Engineer  | Amplitude | San Francisco, CA | [→](https://www.ycombinator.com/companies/amplitude/jobs/vixZiNb-senior-ai-product-engineer) |
-| Full-stack AI Engineer II, Assistant | Amplitude | San Francisco, CA, US | [→](https://www.ycombinator.com/companies/amplitude/jobs/5jpKUcf-full-stack-ai-engineer-ii-assistant) |
-| Senior Software Engineer, Prenatal | BillionToOne | Menlo Park, CA, US | [→](https://www.ycombinator.com/companies/billiontoone/jobs/VT6hjtG-senior-software-engineer-prenatal) |
-| Senior Software Engineer, Digital Experiences (Prenatal) | BillionToOne | Menlo Park, CA, US | [→](https://www.ycombinator.com/companies/billiontoone/jobs/9ZwkJry-senior-software-engineer-digital-experiences-prenatal) |
-| Senior Software Engineer, Oncology | BillionToOne | Menlo Park, CA, US | [→](https://www.ycombinator.com/companies/billiontoone/jobs/FbSOrF0-senior-software-engineer-oncology) |
-| Senior Software Engineer, Frontend | BillionToOne | Menlo Park, CA, US | [→](https://www.ycombinator.com/companies/billiontoone/jobs/4qoi212-senior-software-engineer-frontend) |
-| AI Test Automation Developer | Scope AR | CA / US / Remote (CA; US) | [→](https://www.ycombinator.com/companies/scope-ar/jobs/mdyfbBC-ai-test-automation-developer) |
-| Senior Front End Engineer | Tempo | San Francisco, CA | [→](https://www.ycombinator.com/companies/tempo/jobs/Rudg0BkZ2-senior-front-end-engineer) |
-| Machine Learning Engineer | Tempo | San Francisco, CA | [→](https://www.ycombinator.com/companies/tempo/jobs/9yHUaZmrv-machine-learning-engineer) |
-| Sr Computer Vision Engineer | Tempo | San Francisco, CA | [→](https://www.ycombinator.com/companies/tempo/jobs/FR3MyA3YL-sr-computer-vision-engineer) |
-| Account Development Representative  | PiinPoint | Remote (Kitchener, ON, CA) | [→](https://www.ycombinator.com/companies/piinpoint/jobs/VMpSLE7-account-development-representative) |
-| Investment Analyst | New Story | Mexico City, Mexico / Remote ( | [→](https://www.ycombinator.com/companies/new-story/jobs/YXJEV29-investment-analyst) |
-| Enterprise Product Lead, Truework | Checkr | San Francisco, California, Uni | [→](https://www.ycombinator.com/companies/checkr/jobs/Y4JVf0v-enterprise-product-lead-truework) |
-| Staff Product Manager, Identity Risk Solutions | Checkr | Denver, Colorado, United State | [→](https://www.ycombinator.com/companies/checkr/jobs/nnkIzOj-staff-product-manager-identity-risk-solutions) |
-| Staff Product Manager, Growth | Checkr | Denver, Colorado, United State | [→](https://www.ycombinator.com/companies/checkr/jobs/3cO9by6-staff-product-manager-growth) |
-| Sr. Growth Marketing Manager | Checkr | Denver, Colorado, United State | [→](https://www.ycombinator.com/companies/checkr/jobs/VF48jxA-sr-growth-marketing-manager) |
-| Software Engineer, Reliability | Checkr | Denver, Colorado, United State | [→](https://www.ycombinator.com/companies/checkr/jobs/RhiskBr-software-engineer-reliability) |
-| Senior Software Engineer, Reliability | Checkr | Denver, Colorado, United State | [→](https://www.ycombinator.com/companies/checkr/jobs/61vR0nx-senior-software-engineer-reliability) |
-| Senior Software Engineer, Trust  | Checkr | San Francisco, California, Uni | [→](https://www.ycombinator.com/companies/checkr/jobs/bqjjBE5-senior-software-engineer-trust) |
-| Senior Python Engineer, Truework  | Checkr | San Francisco, California, Uni | [→](https://www.ycombinator.com/companies/checkr/jobs/XxaPwjN-senior-python-engineer-truework) |
-| Python Engineer, Truework | Checkr | San Francisco, California, Uni | [→](https://www.ycombinator.com/companies/checkr/jobs/vXk4adq-python-engineer-truework) |
-| Engineering Manager, Truework | Checkr | San Francisco, California, Uni | [→](https://www.ycombinator.com/companies/checkr/jobs/7ibHUDQ-engineering-manager-truework) |
-| Engineering Manager, MVR | Checkr | San Francisco, California, Uni | [→](https://www.ycombinator.com/companies/checkr/jobs/UzLoBEc-engineering-manager-mvr) |
-| Director of Platform Engineering | Checkr | Denver, Colorado, United State | [→](https://www.ycombinator.com/companies/checkr/jobs/KWiLgmX-director-of-platform-engineering) |
-| Backend Software Engineer II | Checkr | Denver, Colorado, United State | [→](https://www.ycombinator.com/companies/checkr/jobs/exXko1l-backend-software-engineer-ii) |
-| Engineering Manager, Growth | Checkr | Denver, Colorado, United State | [→](https://www.ycombinator.com/companies/checkr/jobs/EW8zuA5-engineering-manager-growth) |
-| Executive Assistant | Y Combinator | San Francisco | [→](https://www.ycombinator.com/companies/y-combinator/jobs/Hpud2dB-executive-assistant) |
-| Product Engineer, Applications Operations | Y Combinator | San Francisco, CA, US | [→](https://www.ycombinator.com/companies/y-combinator/jobs/MsFL1rP-product-engineer-applications-operations) |
-| Community Builder and Product Engineer | Y Combinator | San Francisco, CA, US | [→](https://www.ycombinator.com/companies/y-combinator/jobs/14lrMqm-community-builder-and-product-engineer) |
-| Software Product Design Engineer | Y Combinator | San Francisco Bay Area | [→](https://www.ycombinator.com/companies/y-combinator/jobs/9yNWf1G-software-product-design-engineer) |
-| Product Engineer, Post Batch | Y Combinator | San Francisco, CA | [→](https://www.ycombinator.com/companies/y-combinator/jobs/fK75gxxbq-product-engineer-post-batch) |
-| Software Developer  | Groww | Bengaluru, Karnataka | [→](https://www.ycombinator.com/companies/groww/jobs/HNb92j9if-software-developer) |
-| React Native Developer | Groww | Bengaluru, Karnataka | [→](https://www.ycombinator.com/companies/groww/jobs/ensP1UwH0-react-native-developer) |
-| Operations Research Scientist  | Flock Safety | US / Remote (US) | [→](https://www.ycombinator.com/companies/flock-safety/jobs/8WgCgM9-operations-research-scientist) |
-| Senior ML Engineer, Enrichment  | Flock Safety | US / Remote (US) | [→](https://www.ycombinator.com/companies/flock-safety/jobs/fdubCQU-senior-ml-engineer-enrichment) |
-| Staff AI Systems Engineer  | Flock Safety | US / Remote (US) | [→](https://www.ycombinator.com/companies/flock-safety/jobs/rd2Qy51-staff-ai-systems-engineer) |
-| Senior Software Engineer, Video FullStack Experience | Flock Safety | US / Remote (US) | [→](https://www.ycombinator.com/companies/flock-safety/jobs/jrcaMY6-senior-software-engineer-video-fullstack-experience) |
-| Staff Software Engineer - Rust | Flock Safety | US / Remote (US) | [→](https://www.ycombinator.com/companies/flock-safety/jobs/w0KUMNn-staff-software-engineer-rust) |
-| Senior Software Engineer, Backend Integrations | Flock Safety | Atlanta, GA, US / Remote (Atla | [→](https://www.ycombinator.com/companies/flock-safety/jobs/YME3UnJ-senior-software-engineer-backend-integrations) |
-| Senior Video Software Engineer | Flock Safety | Atlanta, GA, US / Remote (Atla | [→](https://www.ycombinator.com/companies/flock-safety/jobs/oHQmXUR-senior-video-software-engineer) |
-| Senior Customer Success Engineer | Apollo | Remote / Remote (United States | [→](https://www.ycombinator.com/companies/apollo/jobs/PY96GgC-senior-customer-success-engineer) |
-| Enterprise Sales Executive - West | Apollo | Remote / Remote | [→](https://www.ycombinator.com/companies/apollo/jobs/XEVeYqZ-enterprise-sales-executive-west) |
-| Product Engineer | Tab | London, UK | [→](https://www.ycombinator.com/companies/tab/jobs/7kyEqxA-product-engineer) |
-| Head of Operations | Gemnote | San Leandro, CA, US | [→](https://www.ycombinator.com/companies/gemnote/jobs/pvGzeBo-head-of-operations) |
-| Head of Sales  | Bankjoy | US / Remote (US) | [→](https://www.ycombinator.com/companies/bankjoy/jobs/U6L5gvr-head-of-sales) |
-| Director, Global Paid Social & Programmatic Marketing | Rippling | New York, NY, US / San Francis | [→](https://www.ycombinator.com/companies/rippling/jobs/FaCQijf-director-global-paid-social-programmatic-marketing) |
-| Growth Marketing Lead, Self Serve (PLG) | Rippling | New York, NY, US / San Francis | [→](https://www.ycombinator.com/companies/rippling/jobs/8WnspaU-growth-marketing-lead-self-serve-plg) |
-| Support Supervisor | Rippling | Bengaluru, KA, IN / Bengaluru, | [→](https://www.ycombinator.com/companies/rippling/jobs/J942Ych-support-supervisor) |
-| Product Lead, Finance Products | Rippling | San Francisco, CA, US | [→](https://www.ycombinator.com/companies/rippling/jobs/OgPUJ6m-product-lead-finance-products) |
-| Product Lead, Contractor Invoicing & Compliance | Rippling | Bengaluru, KA, IN / Bengaluru, | [→](https://www.ycombinator.com/companies/rippling/jobs/O8Gn5kw-product-lead-contractor-invoicing-compliance) |
-| Customer Support Supervisor | Rippling | Remote | [→](https://www.ycombinator.com/companies/rippling/jobs/OoQFS8V-customer-support-supervisor) |
-| Product Lead, Platform, Reporting & Analytics | Rippling | San Francisco, CA, US | [→](https://www.ycombinator.com/companies/rippling/jobs/8ASPI6G-product-lead-platform-reporting-analytics) |
-| Product Lead, Time Products | Rippling | San Francisco, CA, US | [→](https://www.ycombinator.com/companies/rippling/jobs/p58OaK4-product-lead-time-products) |
-| Product Design Lead, Global Payroll | Rippling | New York, NY, US | [→](https://www.ycombinator.com/companies/rippling/jobs/USJIYst-product-design-lead-global-payroll) |
-| Product Design Lead, IT Products | Rippling | San Francisco, CA, US / New Yo | [→](https://www.ycombinator.com/companies/rippling/jobs/7A5Rnn5-product-design-lead-it-products) |
-| Director of Product Management, Platform | Rippling | San Francisco, CA, US | [→](https://www.ycombinator.com/companies/rippling/jobs/qirH7DW-director-of-product-management-platform) |
-| Senior Engineering Manager - HRIS Company Team | Rippling | San Francisco, CA, US | [→](https://www.ycombinator.com/companies/rippling/jobs/RX6uLCL-senior-engineering-manager-hris-company-team) |
-| Account Executive, Mid Market - Central | Rippling | Austin, TX, US | [→](https://www.ycombinator.com/companies/rippling/jobs/dZJD77T-account-executive-mid-market-central) |
-| Account Executive, Mid Market - WEST | Rippling | San Francisco, CA, US | [→](https://www.ycombinator.com/companies/rippling/jobs/TIEoAOi-account-executive-mid-market-west) |
-| Account Executive, Mid Market - EAST | Rippling | New York, NY, US | [→](https://www.ycombinator.com/companies/rippling/jobs/VRiSVvs-account-executive-mid-market-east) |
-| Sales Manager, SMB - IT Cloud | Rippling | Bengaluru, KA, IN | [→](https://www.ycombinator.com/companies/rippling/jobs/rT7aZDh-sales-manager-smb-it-cloud) |
-| Director of Product | TrueVault | US / Remote (US) | [→](https://www.ycombinator.com/companies/truevault/jobs/zzcW3eZ-director-of-product) |
-| Staff Product Designer | Ironclad | San Francisco, CA / New York,  | [→](https://www.ycombinator.com/companies/ironclad/jobs/H6eUNEC-staff-product-designer) |
-| Senior Software Engineer, AI | Ironclad | San Francisco, CA, US / Indian | [→](https://www.ycombinator.com/companies/ironclad/jobs/rToqqLc-senior-software-engineer-ai) |
-| Legal Engineer (Aka Implementation Engineer) | Ironclad | San Francisco, CA, US / Indian | [→](https://www.ycombinator.com/companies/ironclad/jobs/XGeiq0M-legal-engineer-aka-implementation-engineer) |
-| Robotics Data Engineer Consultant | Instawork | San Francisco, CA, US / Remote | [→](https://www.ycombinator.com/companies/instawork/jobs/AJZqRZi-robotics-data-engineer-consultant) |
-| MBA Growth Intern  | Instawork | Chicago, Illinois, United Stat | [→](https://www.ycombinator.com/companies/instawork/jobs/Pv1GbVe-mba-growth-intern) |
 | GTM Strategy & Analytics Manager | Instawork | Chicago, Illinois, United Stat | [→](https://www.ycombinator.com/companies/instawork/jobs/1n5wKvz-gtm-strategy-analytics-manager) |
-| Executive Assistant to the CEO | Instawork | San Francisco, California, Uni | [→](https://www.ycombinator.com/companies/instawork/jobs/fVJlHcN-executive-assistant-to-the-ceo) |
-| Sales Compensation Manager | Instawork | San Francisco, California, Uni | [→](https://www.ycombinator.com/companies/instawork/jobs/KOEPNgN-sales-compensation-manager) |
-| Staff / Principal ML Engineer | Instawork | San Francisco, California, Uni | [→](https://www.ycombinator.com/companies/instawork/jobs/Qkt7iii-staff-principal-ml-engineer) |
-| Manager, Trust & Safety - Escalations | Instawork | San Francisco, California, Uni | [→](https://www.ycombinator.com/companies/instawork/jobs/Op5BmQw-manager-trust-safety-escalations) |
-| Revenue Operations & Analytics Associate | Instawork | Chicago, Illinois, United Stat | [→](https://www.ycombinator.com/companies/instawork/jobs/OOOVces-revenue-operations-analytics-associate) |
-| Enterprise Account Manager | Instawork | Chicago, Illinois, United Stat | [→](https://www.ycombinator.com/companies/instawork/jobs/95d6pYy-enterprise-account-manager) |
-| Enterprise Account Executive | Instawork | Remote, United States / Remote | [→](https://www.ycombinator.com/companies/instawork/jobs/6DRfvQq-enterprise-account-executive) |
-| QA Automation Lead | Instawork | Bengaluru, KA, IN | [→](https://www.ycombinator.com/companies/instawork/jobs/uBfRQ7T-qa-automation-lead) |
-| Head of Data Science / Machine Learning | Instawork | San Francisco, California, Uni | [→](https://www.ycombinator.com/companies/instawork/jobs/tBoDihy-head-of-data-science-machine-learning) |
-| Lead Product Designer | Instawork | Singapore | [→](https://www.ycombinator.com/companies/instawork/jobs/53Xk2Tk-lead-product-designer) |
-| Enterprise Support Specialist | Instawork | Bengaluru, Karnataka, India | [→](https://www.ycombinator.com/companies/instawork/jobs/5rjQjIB-enterprise-support-specialist) |
-| Staff Software Engineer | Instawork | San Francisco, California, Uni | [→](https://www.ycombinator.com/companies/instawork/jobs/qEEC8KN-staff-software-engineer) |
-| Senior Account Executive | Instawork | Remote (US) | [→](https://www.ycombinator.com/companies/instawork/jobs/JAXspOA-senior-account-executive) |
-| Brand Designer | Odeko | Remote / Remote (US) | [→](https://www.ycombinator.com/companies/odeko/jobs/UtpXADM-brand-designer) |
-| Senior/Staff Fullstack Engineer - Marketplace | Odeko | Remote / Remote (US) | [→](https://www.ycombinator.com/companies/odeko/jobs/7gKd9sh-senior-staff-fullstack-engineer-marketplace) |
-| Senior DevOps Engineer | Odeko | Remote / Remote (US) | [→](https://www.ycombinator.com/companies/odeko/jobs/GUGWECd-senior-devops-engineer) |
-| Sales Operations Analyst  | Clipboard | Remote (North America) / Remot | [→](https://www.ycombinator.com/companies/clipboard/jobs/wXE5oBr-sales-operations-analyst) |
-| Territory Account Executive | Clipboard | Dallas, TX, US / Los Angeles,  | [→](https://www.ycombinator.com/companies/clipboard/jobs/dzbihkw-territory-account-executive) |
-| Product Manager | Clipboard | US / CA / Remote (US; CA) | [→](https://www.ycombinator.com/companies/clipboard/jobs/I5CFhDR-product-manager) |
-| Sales Development Representative - New Verticals | Clipboard | US / CA / Remote (US; CA) | [→](https://www.ycombinator.com/companies/clipboard/jobs/nPTAQEW-sales-development-representative-new-verticals) |
-| Client Support Specialist (Healthcare Facilities - B2B) | Clipboard | Remote | [→](https://www.ycombinator.com/companies/clipboard/jobs/EYlMYBU-client-support-specialist-healthcare-facilities-b2b) |
-| Senior Engineering Manager, Platform  | Scale AI | San Francisco, CA and New York | [→](https://www.ycombinator.com/companies/scale-ai/jobs/iu4D1Yn-senior-engineering-manager-platform) |
-| Account Executive, Strategic - Financial Services/Insurance | Scale AI | New York, San Francisco, Seatt | [→](https://www.ycombinator.com/companies/scale-ai/jobs/CpEd2f3-account-executive-strategic-financial-services-insurance) |
-| Account Executive: Lead - eCommerce | Scale AI | New York, San Francisco, Seatt | [→](https://www.ycombinator.com/companies/scale-ai/jobs/HeWDhtt-account-executive-lead-ecommerce) |
-| Account Executive: Global Accounts | Scale AI | New York, San Francisco, Seatt | [→](https://www.ycombinator.com/companies/scale-ai/jobs/OBC6BJC-account-executive-global-accounts) |
-| Account Executive - Automotive | Scale AI | US, Europe, Asia, and/or Remot | [→](https://www.ycombinator.com/companies/scale-ai/jobs/GElIDCC-account-executive-automotive) |
-| Strategic Product Manager | Scale AI | San Francisco, CA / New York,  | [→](https://www.ycombinator.com/companies/scale-ai/jobs/OuGucdK-strategic-product-manager) |
-| Account Executive, Enterprise | Deel | US / CA / Remote (US; CA) | [→](https://www.ycombinator.com/companies/deel/jobs/zFhSQQ0-account-executive-enterprise) |
-| AE, Existing Business (SMB - MM - ENT) | Deel | Remote (US) | [→](https://www.ycombinator.com/companies/deel/jobs/nmitdpN-ae-existing-business-smb-mm-ent) |
-| SDR Manager (SMB - MM - ENT) | Deel | Remote (US) | [→](https://www.ycombinator.com/companies/deel/jobs/uM8n02A-sdr-manager-smb-mm-ent) |
-| Sales Development Representative (SMB - MM- ENT) | Deel | US / CA / Remote (US; CA) | [→](https://www.ycombinator.com/companies/deel/jobs/lACZX0I-sales-development-representative-smb-mm-ent) |
-| Account Executive, MidMarket | Deel | US / CA / Remote (US; CA) | [→](https://www.ycombinator.com/companies/deel/jobs/sfNJy4e-account-executive-midmarket) |
-| Engineering Manager | Hive | CA / Remote (CA) | [→](https://www.ycombinator.com/companies/hive/jobs/ikInW53-engineering-manager) |
-| Senior Software Engineer, Data | Hive | CA / Remote (CA) | [→](https://www.ycombinator.com/companies/hive/jobs/0Vn4AYR-senior-software-engineer-data) |
-| Senior Backend Software Engineer | Hive | CA / Remote (CA) | [→](https://www.ycombinator.com/companies/hive/jobs/u24LlUX-senior-backend-software-engineer) |
-| Senior Product Software Engineer | Hive | Canada (Remote) / Remote (CA) | [→](https://www.ycombinator.com/companies/hive/jobs/IdYxtYp-senior-product-software-engineer) |
-| Senior Fullstack Engineer | NimbleRx | Redwood City, CA | [→](https://www.ycombinator.com/companies/nimblerx/jobs/hlWwuXa-senior-fullstack-engineer) |
-| Senior Backend Engineer | NimbleRx | Redwood City, CA | [→](https://www.ycombinator.com/companies/nimblerx/jobs/pun7eqr-senior-backend-engineer) |
-| Senior iOS Developer | Shape (ShapeScale) | San Francisco, CA, US | [→](https://www.ycombinator.com/companies/shape-shapescale/jobs/JnctVH9-senior-ios-developer) |
-| Staff iOS Engineer, Storefront | DoorDash | San Francisco, CA, US / Seattl | [→](https://www.ycombinator.com/companies/doordash/jobs/uv04VyJ-staff-ios-engineer-storefront) |
-| Engineering Manager, Storefront | DoorDash | San Francisco, CA, US / Seattl | [→](https://www.ycombinator.com/companies/doordash/jobs/5BgBitd-engineering-manager-storefront) |
-| Software Engineer, Distributed Databases | DoorDash | Remote | [→](https://www.ycombinator.com/companies/doordash/jobs/Zfq9BV9-software-engineer-distributed-databases) |
-| Software Engineer, Site Reliability (SRE) | DoorDash | United States / Remote (US) | [→](https://www.ycombinator.com/companies/doordash/jobs/a00qwGR-software-engineer-site-reliability-sre) |
-| Engineering Manager, Core Platform    | DoorDash | United States / Remote (US) | [→](https://www.ycombinator.com/companies/doordash/jobs/8PqP3xh-engineering-manager-core-platform) |
-| Software Engineer, Core Platform | DoorDash | 100% Remote / Remote | [→](https://www.ycombinator.com/companies/doordash/jobs/j89qEY3-software-engineer-core-platform) |
-| Backend Engineer | DoorDash | 901 Market Floor 6, SF, CA 941 | [→](https://www.ycombinator.com/companies/doordash/jobs/kfcD8ptiE-backend-engineer) |
-| Software Engineer, iOS | DoorDash | 901 Market Floor 6, SF, CA 941 | [→](https://www.ycombinator.com/companies/doordash/jobs/nCcioeppx-software-engineer-ios) |
-| Software Engineer, Android | DoorDash | 901 Market, SF, CA 94105 | [→](https://www.ycombinator.com/companies/doordash/jobs/BV8AJW4Tt-software-engineer-android) |
-| Account Executive - Global, Remote | Magic | PH / Dubai, Dubai, AE / ES / P | [→](https://www.ycombinator.com/companies/magic/jobs/R53M6Gp-account-executive-global-remote) |
-| Sales Director | Bitmovin | United States / Remote | [→](https://www.ycombinator.com/companies/bitmovin/jobs/SPlTI7FBv-sales-director) |
-| Senior Software Engineer - Platform | Xendit | Remote | [→](https://www.ycombinator.com/companies/xendit/jobs/OO1OrKOtc-senior-software-engineer-platform) |
-| Cloud Engineer (SRE) | Heroic Labs | London, UK / PT / Remote | [→](https://www.ycombinator.com/companies/heroic-labs/jobs/B1itWEn-cloud-engineer-sre) |
+
+### 📈 Head of Growth
+
+| Role | Company | Location | Apply |
+|------|---------|----------|-------|
+| Lifecycle Marketing Manager | Eight Sleep | Remote - US / Remote (US) | [→](https://www.ycombinator.com/companies/eight-sleep/jobs/foAysvA-lifecycle-marketing-manager) |
+| Sr. Growth Marketing Manager | Checkr | Denver, Colorado, United State | [→](https://www.ycombinator.com/companies/checkr/jobs/VF48jxA-sr-growth-marketing-manager) |
+| Growth Marketing Lead, Self Serve (PLG) | Rippling | New York, NY, US / San Francis | [→](https://www.ycombinator.com/companies/rippling/jobs/8WnspaU-growth-marketing-lead-self-serve-plg) |
+
+### 👥 Community
+
+| Role | Company | Location | Apply |
+|------|---------|----------|-------|
+| Community Builder and Product Engineer | Y Combinator | San Francisco, CA, US | [→](https://www.ycombinator.com/companies/y-combinator/jobs/14lrMqm-community-builder-and-product-engineer) |
 
 <!-- JOBS:END -->
 
