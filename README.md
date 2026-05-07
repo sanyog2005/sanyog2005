@@ -99,26 +99,49 @@ This repo runs a nightly script that:
 2. Filters by role keywords (DevRel, advocate, technical writer, community, developer marketing, docs)
 3. Rebuilds this README with fresh jobs every day
 
-**Sources:** Greenhouse · Lever · Ashby · RemoteOK · Remotive · Arbeitnow · Adzuna
+**Sources:** Greenhouse · Lever · Ashby · Workable · YC · RemoteOK · Remotive · Arbeitnow · Adzuna
 
 **No scraping. No reposts. No LinkedIn dust.**
 
 ---
 
-## Submit a role
+## 🤖 Claude Code Skills
 
-Hiring for a devtool DevRel, content, or developer marketing role? [Open an issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues/new) with the company name and ATS link.
+This repo includes **Claude Code skills** that contributors can run locally to maintain and improve the project. Skills are markdown files that Claude reads and executes — they let anyone with Claude Code installed extend the project without writing code.
 
----
+### Prerequisites
 
-## About
+```bash
+# Install Claude Code CLI
+npm install -g @anthropic-ai/claude-code
 
-Maintained by **[Infrasity](https://infrasity.com)** — a developer marketing agency working with DevTools and B2B SaaS companies.
+# Login (uses your Claude Pro/Max subscription)
+claude login
+```
 
-We do this in public because we live in this space — every role here is one we'd consider hiring for ourselves.
+### Available Skills
 
-[infrasity.com](https://infrasity.com) · [LinkedIn](https://linkedin.com/company/infrasity)
+#### 1. Expand Keywords (`skills/expand-keywords.md`)
 
----
+Automatically expands the keyword lists in `main.py` for each job category. Currently each category has ~10 hardcoded keywords. This skill expands them to 30+ using Claude's knowledge of real job titles, including variations, seniority prefixes, and synonyms.
 
-*Last updated automatically via GitHub Actions.*
+**When to use:**
+- Jobs you expect to see aren't showing up in the README
+- After adding a new category to `main.py`
+- Monthly refresh (job titles evolve over time)
+
+**How to run:**
+
+```bash
+# From repo root
+claude skills/expand-keywords.md
+```
+
+**What it does:**
+- Reads current `CATEGORIES` from `main.py`
+- For each category, generates 30+ additional job title keywords
+- Merges new keywords with existing ones (no duplicates)
+- Updates `main.py` directly
+- Shows a summary of new keywords added
+
+**Example output:**
