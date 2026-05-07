@@ -1,7 +1,3 @@
-<a id="test-anchor"></a>
-## Test Section
-
-
 # Developer Marketing Jobs
 ![Jobs](https://img.shields.io/badge/🧑‍💻_Jobs-Updated_Daily-brightgreen?style=for-the-badge)
 ![Free](https://img.shields.io/badge/💸_Access-100%25_Free-blue?style=for-the-badge)
@@ -32,21 +28,20 @@ If you're hiring, you can submit roles by [opening an issue](#submit-a-role).
 > 📊 **10 active roles** across 7 categories
 > Last updated: May 08, 2026
 
+<a id="navigation"></a>
 ## 📑 Quick Navigation
 
 Jump to any role category:
 
-### Main Roles
+**Main Roles:**
 
 - [✍️ Technical Writing & Documentation](#technical-writing-documentation) (1 jobs)
 - [📦 Product Marketing](#product-marketing) (2 jobs)
 - [📈 Head of Growth](#head-of-growth) (7 jobs)
 
-### Y Combinator Jobs
-
-
 ---
 
+<a id="technical-writing-documentation"></a>
 ## ✍️ Technical Writing & Documentation
 
 | Role | Company | Location | Apply |
@@ -54,10 +49,11 @@ Jump to any role category:
 | Technical Writer & Product Engineer | Thermal Works | United States | [→](https://remoteOK.com/remote-jobs/remote-technical-writer-product-engineer-thermal-works-1131481) |
 
 
-[⬆ Back to top](#-quick-navigation)
+[⬆ Back to top](#navigation)
 
 ---
 
+<a id="product-marketing"></a>
 ## 📦 Product Marketing
 
 | Role | Company | Location | Apply |
@@ -66,10 +62,11 @@ Jump to any role category:
 | Product Marketing Lead | Paragon | Los Angeles or Remote | [→](https://remoteOK.com/remote-jobs/remote-product-marketing-lead-paragon-1131395) |
 
 
-[⬆ Back to top](#-quick-navigation)
+[⬆ Back to top](#navigation)
 
 ---
 
+<a id="head-of-growth"></a>
 ## 📈 Head of Growth
 
 | Role | Company | Location | Apply |
@@ -83,7 +80,7 @@ Jump to any role category:
 | Manager Client Support RH Boutique Partners | Waterworks | Remote | [→](https://remoteOK.com/remote-jobs/remote-manager-client-support-rh-boutique-partners-waterworks-1131392) |
 
 
-[⬆ Back to top](#-quick-navigation)
+[⬆ Back to top](#navigation)
 
 ---
 
@@ -148,7 +145,6 @@ claude skills/expand-keywords.md
 - Updates `main.py` directly
 - Shows a summary of new keywords added
 
-**Example output:**
 ---
 
 ### Skill 2: Expand Greenhouse Companies
@@ -176,7 +172,3 @@ claude skills/expand-greenhouse-companies.md
 - Updates `fetchers/greenhouse.py` directly
 - Updates `discovered_greenhouse_companies.json` cache
 
-
-[Click to go to test](#test-anchor)
-
-**Example output:**
