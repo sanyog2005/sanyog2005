@@ -145,3 +145,31 @@ claude skills/expand-keywords.md
 - Shows a summary of new keywords added
 
 **Example output:**
+---
+
+### Skill 2: Expand Greenhouse Companies
+
+**File:** `skills/expand-greenhouse-companies.md`
+
+Auto-discovers new devtool companies using Greenhouse ATS. The Greenhouse API requires company names as parameters — this skill expands the company list automatically instead of hardcoding it.
+
+**When to use:**
+- Monthly refresh to discover new companies
+- When a specific company is missing from job listings
+- After major tech hiring waves
+- When `greenhouse_jobs.json` seems low on results
+
+**How to run:**
+```bash
+claude skills/expand-greenhouse-companies.md
+```
+
+**What it does:**
+- Reads current company list from `fetchers/greenhouse.py`
+- Generates 200+ candidate devtool companies based on industry knowledge
+- Validates each against the Greenhouse API in real-time
+- Filters for actual devtool/SaaS companies
+- Updates `fetchers/greenhouse.py` directly
+- Updates `discovered_greenhouse_companies.json` cache
+
+**Example output:**
