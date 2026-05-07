@@ -1,7 +1,7 @@
 <a id="test-anchor"></a>
 ## Test Section
 
-[Click to go to test](#test-anchor)
+
 # Developer Marketing Jobs
 ![Jobs](https://img.shields.io/badge/🧑‍💻_Jobs-Updated_Daily-brightgreen?style=for-the-badge)
 ![Free](https://img.shields.io/badge/💸_Access-100%25_Free-blue?style=for-the-badge)
@@ -175,5 +175,8 @@ claude skills/expand-greenhouse-companies.md
 - Filters for actual devtool/SaaS companies
 - Updates `fetchers/greenhouse.py` directly
 - Updates `discovered_greenhouse_companies.json` cache
+
+
+[Click to go to test](#test-anchor)
 
 **Example output:**
