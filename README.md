@@ -24,66 +24,28 @@ If you're hiring, you can submit roles by [opening an issue](#submit-a-role).
 ---
 
 <!-- JOBS:START -->
+| Role | Company | Location | Source | Link |
+|------|---------|----------|--------|------|
+| AI Staff Developer Advocate | Mongodb | California; San Francisco | Greenhouse | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7673691) |
+| Senior Developer Advocate | Mongodb | Ireland | Greenhouse | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7241758) |
+| Staff Developer Advocate | Mongodb | New York | Greenhouse | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7831638) |
+| Technical Writer | Mongodb | Dublin | Greenhouse | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7743754) |
+| Technical Writer & Product Engineer | Thermal Works | United States | RemoteOK | [Apply](https://remoteOK.com/remote-jobs/remote-technical-writer-product-engineer-thermal-works-1131481) |
+| Senior Software Engineer - Docs Engineering - Documentation | Elastic | Spain | Greenhouse | [Apply](https://jobs.elastic.co/jobs?gh_jid=7893106&gh_jid=7893106) |
+| Writer, Content Marketing | Stripe | Remote US | Greenhouse | [Apply](https://stripe.com/jobs/search?gh_jid=7587814) |
+| Sales Content Manager | Figma | San Francisco, CA • New York, NY • United States | Greenhouse | [Apply](https://boards.greenhouse.io/figma/jobs/5985022004?gh_jid=5985022004) |
+| Senior Developer Advocate | Elastic | The Netherlands | Greenhouse | [Apply](https://jobs.elastic.co/jobs?gh_jid=7445210&gh_jid=7445210) |
+| Senior Developer Advocate (Video Content Creator) | Elastic | United Kingdom | Greenhouse | [Apply](https://jobs.elastic.co/jobs?gh_jid=7190130&gh_jid=7190130) |
+| Content Marketing Intern (July to December 2026) | Cloudflare | In-Office | Greenhouse | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7733168?gh_jid=7733168) |
+| Content Marketing Intern (Summer 2026) | Cloudflare | In-Office | Greenhouse | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7733145?gh_jid=7733145) |
+| Developer Advocate | Figma | San Francisco, CA | Greenhouse | [Apply](https://boards.greenhouse.io/figma/jobs/5834922004?gh_jid=5834922004) |
+| Developer Advocate (Tokyo, Japan) | Figma | Tokyo, Japan | Greenhouse | [Apply](https://boards.greenhouse.io/figma/jobs/5969647004?gh_jid=5969647004) |
+| Sr. Developer Advocate - Neon | Databricks | San Francisco, California | Greenhouse | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8428818002) |
+| Sr. Developer Advocate, Databricks AI Agentic Systems | Databricks | San Francisco, California | Greenhouse | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930603002) |
+| Senior Frontend Developer | Sanctuary Computer | LATAM, Asia | Remotive | [Apply](https://remotive.com/remote-jobs/software-development/senior-frontend-developer-2088707) |
+| Fullstack Developer (US - ET) | Chooose | USA | Remotive | [Apply](https://remotive.com/remote-jobs/software-development/fullstack-developer-us-et-2088706) |
 
-> 📊 **10 active roles** across 7 categories
-> Last updated: May 08, 2026
-
-<a id="navigation"></a>
-## 📑 Quick Navigation
-
-Jump to any role category:
-
-**Main Roles:**
-
-- [✍️ Technical Writing & Documentation](#technical-writing-documentation) (1 jobs)
-- [📦 Product Marketing](#product-marketing) (2 jobs)
-- [📈 Head of Growth](#head-of-growth) (7 jobs)
-
----
-
-<a id="technical-writing-documentation"></a>
-## ✍️ Technical Writing & Documentation
-
-| Role | Company | Location | Apply |
-|------|---------|----------|-------|
-| Technical Writer & Product Engineer | Thermal Works | United States | [→](https://remoteOK.com/remote-jobs/remote-technical-writer-product-engineer-thermal-works-1131481) |
-
-
-[⬆ Back to top](#navigation)
-
----
-
-<a id="product-marketing"></a>
-## 📦 Product Marketing
-
-| Role | Company | Location | Apply |
-|------|---------|----------|-------|
-| Product Marketing Intern | Everlaw | Oakland | [→](https://remoteOK.com/remote-jobs/remote-product-marketing-intern-everlaw-1131454) |
-| Product Marketing Lead | Paragon | Los Angeles or Remote | [→](https://remoteOK.com/remote-jobs/remote-product-marketing-lead-paragon-1131395) |
-
-
-[⬆ Back to top](#navigation)
-
----
-
-<a id="head-of-growth"></a>
-## 📈 Head of Growth
-
-| Role | Company | Location | Apply |
-|------|---------|----------|-------|
-| Senior Veritas eDiscovery Platform Engineer | Contact Government Services, LLC | Remote | [→](https://remoteOK.com/remote-jobs/remote-senior-veritas-ediscovery-platform-engineer-contact-government-services-llc-1131484) |
-| Medical Affairs Solutions Manager UK | Sorcero | UK | [→](https://remoteOK.com/remote-jobs/remote-medical-affairs-solutions-manager-uk-sorcero-1131475) |
-| Recruiter | Airship | Remote - U.S. | [→](https://remoteOK.com/remote-jobs/remote-recruiter-airship-1131462) |
-| Social Media Growth Lead | Black &amp; White Zebra | Remote | [→](https://remoteOK.com/remote-jobs/remote-social-media-growth-lead-black-amp-white-zebra-1131434) |
-| Supply Chain Manager | Nutrafol | Remote | [→](https://remoteOK.com/remote-jobs/remote-supply-chain-manager-nutrafol-1131406) |
-| Strategic Business Development Consultant | Vonage | Spain | [→](https://remoteOK.com/remote-jobs/remote-strategic-business-development-consultant-vonage-1131403) |
-| Manager Client Support RH Boutique Partners | Waterworks | Remote | [→](https://remoteOK.com/remote-jobs/remote-manager-client-support-rh-boutique-partners-waterworks-1131392) |
-
-
-[⬆ Back to top](#navigation)
-
----
-
+_Last updated: 2026-05-08 07:47 UTC_
 <!-- JOBS:END -->
 
 ---
