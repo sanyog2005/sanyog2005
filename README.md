@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt&text=Hi%20👋,%20I'm%20Ayush%20Mathur" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt&text=Hi%20👋,%20I'm%20Sanyog%20Sharma" />
 </div>
 
 <h3 align="center">Full-Stack Developer | AI & Data Science Enthusiast</h3>
